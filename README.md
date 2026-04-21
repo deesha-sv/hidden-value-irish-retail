@@ -157,42 +157,6 @@ This project included:
 <img width="1222" height="790" alt="image" src="https://github.com/user-attachments/assets/faf7ecbb-2194-43be-ba26-e259c3e6f966" />
 
 
-## Folder Structure
-A clean structure for this repository could look like this:
-
-```bash
-hidden-value-irish-retail/
-│
-├── data/
-│   ├── raw/
-│   │   └── RSM08.20260420T110448.csv
-│   └── processed/
-│       ├── retail_cleaned_with_mom.csv
-│       └── retail_hidden_value_score.csv
-│
-├── notebooks/
-│   └── hidden_value_irish_retail.ipynb
-│
-├── images/
-│   ├── average-retail-index.png
-│   ├── retail-trends.png
-│   └── top-hidden-value-categories.png
-│
-└── README.md
-```
-
-## How to Reproduce
-1. Download the CSV from the official CSO dataset:
-   - [https://data.cso.ie/table/RSM08](https://data.cso.ie/table/RSM08)
-2. Upload the file into Google Colab
-3. Run the notebook cells for:
-   - Data loading
-   - Cleaning
-   - Category filtering
-   - Trend analysis
-   - Volatility calculation
-   - Hidden value score creation
-4. Save the cleaned outputs and charts
 
 ## Why this project matters
 Retail data is often summarized at a high level, but category-level analysis can reveal very different patterns across consumer segments. This project shows how public economic data can be used to build a more decision-oriented retail story.
