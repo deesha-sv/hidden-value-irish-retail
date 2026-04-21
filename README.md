@@ -150,9 +150,10 @@ This project included:
 - A hidden value score table
 - A final ranking chart of top hidden-value categories
 
-> Add your chart screenshots here after uploading them to GitHub.
 <img width="1202" height="790" alt="image" src="https://github.com/user-attachments/assets/5546d1f0-98a7-48a5-97f4-245b81e809d6" />
+
 <img width="1374" height="790" alt="image" src="https://github.com/user-attachments/assets/3f268204-38e3-4de6-b7a3-b05eaf7d9721" />
+
 <img width="1222" height="790" alt="image" src="https://github.com/user-attachments/assets/faf7ecbb-2194-43be-ba26-e259c3e6f966" />
 
 
